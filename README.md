@@ -1,6 +1,6 @@
 #  <img align = "center" src="https://github.com/DeniseFer/SaveWave/assets/124710256/7bfea2a9-fd0b-46e7-9d78-6465805fe6f6" width ="50"> SaveWave
 
-# <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> CalcSimple
+
 <br>
 </br>
 
