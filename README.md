@@ -24,25 +24,26 @@
 <br>
 </br>
 
-  # <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Ferramentas:
-  
-  * ## XCode
-     ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    
-  * ## Notion
-    <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/214990a1-f590-4f9b-ade4-fb82f5eaaace" width="35">
-  
-  * ## Figma
-     <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/4a2e15ef-3e49-4f6f-b47f-8da666f3fc9b" width="35">
+# 🛠️ Ferramentas 
+
+### Linguagens  
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
+ 
+### IDEs  
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  
+
+### Ferramentas de Produtividade & Design  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
 <br>
 </br>
 
-# <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Linguagem:
+# <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Linguagens
 
-* ## Swift 
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
 
 
  
