@@ -67,10 +67,10 @@
   
 <br></br>
 * [Allan Martins](https://github.com/Allan-Drip)
- -
+ - Back End
 <br></br>
 * [Júlia Maria](https://github.com/Julia-maria56)
-- 
+- Back End
   
  
   <br></br>
